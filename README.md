@@ -57,7 +57,8 @@ Acesso Web:
 De um desktop na Rede A, tentar acessar o site hospedado no servidor web da Rede B (http://172.15.0.252).
 Confirmar que a página web é carregada corretamente, validando a funcionalidade do roteamento, DNS e camada de aplicação.
 Considerações Finais:
-Este projeto visa criar uma infraestrutura de rede funcional, permitindo a comunicação eficiente entre duas redes distintas. Ao implementar configurações adequadas nos roteadores, switches, servidores DHCP, DNS e servidores web, espera-se alcançar um ambiente operacional onde os desktops de uma rede possam acessar serviços específicos hospedados em servidores na outra rede.
+Este projeto visa criar uma infraestrutura de rede funcional, permitindo a comunicação eficiente entre duas redes distintas. 
+Ao implementar configurações adequadas nos roteadores, switches, servidores DHCP, DNS e servidores web, espera-se alcançar um ambiente operacional onde os desktops de uma rede possam acessar serviços específicos hospedados em servidores na outra rede.
 Certifique-se de monitorar a conectividade e ajustar as configurações conforme necessário para garantir um funcionamento contínuo.
 
 <img src="/ada-projeto-redes.png">
