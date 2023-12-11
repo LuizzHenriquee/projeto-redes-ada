@@ -1,4 +1,4 @@
-O objetivo deste projeto é estabelecer uma comunicação efetiva entre duas redes distintas (A e B) utilizando roteadores, switches e servidores. A configuração incluirá a implementação de DHCP para desktops e IP fixo para servidores em ambas as redes, bem como a comunicação entre um desktop na Rede A e um servidor web na Rede B.
+<h1>O objetivo deste projeto é estabelecer uma comunicação efetiva entre duas redes distintas (A e B) utilizando roteadores, switches e servidores. A configuração incluirá a implementação de DHCP para desktops e IP fixo para servidores em ambas as redes, bem como a comunicação entre um desktop na Rede A e um servidor web na Rede B.</h1>
 
 Topologia de Rede:
 
