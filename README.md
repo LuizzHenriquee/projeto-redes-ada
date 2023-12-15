@@ -1,9 +1,9 @@
-<h1>O objetivo deste projeto é estabelecer uma comunicação efetiva entre duas redes distintas (A e B) utilizando roteadores, switches e servidores. 
-  A configuração incluirá a implementação de DHCP para desktops e IP fixo para servidores em ambas as redes, bem como a comunicação entre um desktop na Rede A e um servidor web na Rede B.</h1>
+<h1>O objetivo deste projeto é estabelecer uma comunicação efetiva entre duas redes distintas (A e B) utilizando roteadores, switches e servidores.💻</h1>
+  <h2>A configuração incluirá a implementação de DHCP para desktops e IP fixo para servidores em ambas as redes, bem como a comunicação entre um desktop na Rede A e um servidor web na Rede B.</h2>
 
-Topologia de Rede:
+<h3>Topologia de Rede:</h3>
 
-Rede A (Alunos):
+<h4>Rede A (Alunos):
 
 Subnet: 192.168.0.0/24
 Gateway: 192.168.10.254
@@ -59,7 +59,7 @@ Confirmar que a página web é carregada corretamente, validando a funcionalidad
 Considerações Finais:
 Este projeto visa criar uma infraestrutura de rede funcional, permitindo a comunicação eficiente entre duas redes distintas. 
 Ao implementar configurações adequadas nos roteadores, switches, servidores DHCP, DNS e servidores web, espera-se alcançar um ambiente operacional onde os desktops de uma rede possam acessar serviços específicos hospedados em servidores na outra rede.
-Certifique-se de monitorar a conectividade e ajustar as configurações conforme necessário para garantir um funcionamento contínuo.
+Certifique-se de monitorar a conectividade e ajustar as configurações conforme necessário para garantir um funcionamento contínuo.</h4>
 
 <img src="/ada-projeto-redes.png">
 
